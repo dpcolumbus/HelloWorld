@@ -6,6 +6,7 @@ public class HelloClass {
 		System.out.print("phase1");
 			System.out.print("phase2");
 				System.out.print("phase3");
+				System.out.print("phase4");
 	}
 
 }
