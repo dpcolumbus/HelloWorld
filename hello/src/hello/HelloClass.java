@@ -12,7 +12,7 @@ public class HelloClass {
 	}
 	
 	public void hello() {
-		System.out.print("hello");
+		System.out.print("hello deepak");
 	}
 
 }
