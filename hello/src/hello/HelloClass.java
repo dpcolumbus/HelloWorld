@@ -10,5 +10,9 @@ public class HelloClass {
 					System.out.print("phase5");
 						System.out.print("phase6");
 	}
+	
+	public void hello() {
+		System.out.print("hello jaidev");
+	}
 
 }
